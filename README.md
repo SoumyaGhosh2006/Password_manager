@@ -6,7 +6,13 @@ A simple, lightweight password manager built with HTML, CSS, and JavaScript.
 
 Password Manager is a web-based application that enables users to securely store, manage, and access their website credentials. This project was inspired by Codextron and developed with assistance from various AI tools.
 
-![Password Manager Screenshot](https://manager.jpg)
+![Password Manager interface](interface.png)
+
+
+![Password Manager datas](data.png)
+
+
+![Password Manager delete](delete.png)
 
 
 
