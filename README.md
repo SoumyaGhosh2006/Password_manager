@@ -39,7 +39,7 @@ To run this project locally:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SoumyaGhosh2006/password_manager.git
+   git clone https://github.com/SoumyaGhosh2006/Password_manager.git
    ```
 
 2. Open `index.html` in your preferred browser
